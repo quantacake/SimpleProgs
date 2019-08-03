@@ -36,9 +36,8 @@ public class PalindromeChecker {
 
     public static void main(String[] args) {
 
-        System.out.println(check1("abcdefg gfedcba"));
+        System.out.println(check1("racecar"));
 
-        //System.out.println(check2("abcdefg gfedcba"));
 
     }
 }
